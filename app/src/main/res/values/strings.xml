@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TGV Max</string>
+    <string name="load_error">Connection error.</string>
+    <string name="load_retry">Retry</string>
+    <string name="load_exit">Quit</string>
+</resources>
